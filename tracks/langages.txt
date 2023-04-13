@@ -1,1 +1,4 @@
 Langages
+
+git sous le capot
+rust embarqué
